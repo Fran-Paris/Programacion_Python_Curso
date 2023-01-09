@@ -1,4 +1,7 @@
 print("Hola Mundo")
 Hola = "Hello world"
 print(Hola)
-Print("hola ")
+print("hola ")
+
+
+print(input("cuantos años tienes: "))

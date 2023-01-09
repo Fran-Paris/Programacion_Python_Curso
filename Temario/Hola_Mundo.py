@@ -4,4 +4,4 @@ print(Hola)
 print("hola ")
 
 
-print(input("cuantos años tienes: "))
+print(input("cuantos años tienes?: "))
